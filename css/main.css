@@ -7,7 +7,9 @@
  *	- Base
  *	- Links
  *	-------------------------------------------------------------------------*/
-
+body {
+    background-color:#000;
+}
 .notready h6 {
 	background: red;
 }
